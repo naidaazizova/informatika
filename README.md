@@ -4,7 +4,7 @@
 
 1. Сначала создаю новый файл с именем `script.bash`
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2019.53.01.png)
 
 2. Откройте созданный файл `script.bash` для редактирования. Стандартный текстовый редактор в Linux Ubuntu это `gedit`. Выполните в терминале
 

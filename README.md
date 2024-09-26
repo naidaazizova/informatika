@@ -12,14 +12,14 @@
 ![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2019.59.02.png)
 
 
-4. Вписываю скрипт, который был дан в документе
+3. Вписываю скрипт, который был дан в документе.
 
-![Image alt](https://github.com/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.00.00.png)
+![screenshot](https://github.com/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.00.00.png)
 
 
 4. Я сохраняю этот файл (закрыла просто крестиком, сохранив внесенные изменения). Затем запустила bash-скрипт, написав в терминале 'bash script.bash' и увидела строку `Welcome to ITMO University`.
 
-![Image alt](https://github.com/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.01.04.png)
+![screenshot](https://github.com/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.01.04.png)
 
 
 

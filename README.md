@@ -30,7 +30,7 @@
 ![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.02.06.png)
 
 2. Далее я меняю скрипт: вместо 'Welcome to ITMO University' я пишу 'Welcome, $*'.
-$ - этот значок отвечает за ввод данных;
+$ (значок доллара) - этот значок отвечает за ввод данных;
 * - благодаря этому значку мы можем вводить любое количество переменных.
 
 ![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.03.02.png)

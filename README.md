@@ -35,7 +35,7 @@ $ (значок доллара) - этот значок отвечает за в
 
 ![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.03.02.png)
 
-3. Затем я сохраняю этот файл, ввожу в терминале 'bash script.bash Vasya Pupkin'. Попробовала еще ввести свое имя и фамиилию, все получилось.
+3. Затем я сохраняю этот файл, ввожу в терминале 'bash script.bash Vasya Pupkin'. Попробовала еще ввести свое имя и фамилию, все получилось.
 
 ![screenshot](https://github.com/naidaazizova/informatika/blob/main/Снимок%20экрана%202024-09-26%20в%2020.03.57.png)
 
